@@ -1,0 +1,16 @@
+/* Center all content on the page */
+body {
+    text-align: center;
+}
+
+/* Style the word clue area */
+#clue{
+    font-family: monospace;
+    font-size: 2em;
+    padding: 1em;
+}
+
+/* Add spacing above the new game button/section */
+#newgamearea {
+    margin-top: 2em;
+}
